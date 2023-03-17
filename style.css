@@ -1,0 +1,24 @@
+table{
+    border: 2px solid blue;
+    margin: 100px auto;
+    border-radius: 20px;
+    background-color: azure;
+}
+td{
+    border: 2px solid red;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: darkgoldenrod;
+}
+th{
+    border: 2px solid rgba(149, 58, 223, 0.952);
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: orangered;
+}
+body{
+    background-color: aqua;
+}
